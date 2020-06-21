@@ -1,3 +1,6 @@
 Hi GIT, I've created a new branch!  The bug on master branch has been fixed.
 
 This line has been added on 'testBranch'.
+
+A new line added by Tom.
+
